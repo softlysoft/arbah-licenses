@@ -48,7 +48,7 @@
 
         <!-- Download Buttons (مرتبط برابط Google Drive الخاص بك) -->
         <div class="flex flex-col sm:flex-row justify-center items-center gap-4 pt-4">
-            <a href="https://drive.google.com/file/d/1DZ5R0mFrESglaXQiYNrUvqY3oNT3nmdH/view?usp=sharing" target="_blank" class="w-full sm:w-auto px-8 py-4 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white font-bold rounded-2xl shadow-xl shadow-purple-600/30 transition text-sm flex items-center justify-center space-x-2 space-x-reverse">
+            <a href="https://github.com/zawaligaming-cmd/arbah-licenses/releases/download/v4.9/ARBAH-Setup-4.9.2.exe" target="_blank" class="w-full sm:w-auto px-8 py-4 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white font-bold rounded-2xl shadow-xl shadow-purple-600/30 transition text-sm flex items-center justify-center space-x-2 space-x-reverse">
                 <i class="fa-solid fa-download text-lg"></i>
                 <span>تحميل البرنامج للكمبيوتر (EXE)</span>
             </a>
